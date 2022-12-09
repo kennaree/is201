@@ -1,8 +1,8 @@
 h1 {
     text-align:center;
     font-size: 200px;
-    font-family: "Lucinda Handwriting", "Papyrus", "Lucinda Console";
-}
+    font-family: "Lucida Console", "Courier New", monospace;
+ }
 
 ul {
     list-style-type: none;
